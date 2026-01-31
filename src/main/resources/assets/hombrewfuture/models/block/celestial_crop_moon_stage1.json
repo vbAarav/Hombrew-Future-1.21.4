@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "newhombrew:block/celestial_crop_moon_stage1"
+  }
+}

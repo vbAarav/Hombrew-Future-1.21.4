@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "newhombrew:block/nueguecli_stalk"
+  }
+}

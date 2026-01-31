@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top",
+  "textures": {
+    "top": "newhombrew:block/dowlise_door_top",
+    "bottom": "newhombrew:block/dowlise_door_bottom"
+  }
+}

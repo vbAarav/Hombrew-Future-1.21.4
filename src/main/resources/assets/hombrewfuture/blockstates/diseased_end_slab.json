@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "newhombrew:block/diseased_end_slab"
+    },
+    "type=double": {
+      "model": "newhombrew:block/diseased_end_stone"
+    },
+    "type=top": {
+      "model": "newhombrew:block/diseased_end_slab_top"
+    }
+  }
+}

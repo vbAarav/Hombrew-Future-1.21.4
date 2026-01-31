@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "newhombrew:block/modifier",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "newhombrew:block/modifier"
+    },
+    "facing=south": {
+      "model": "newhombrew:block/modifier",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "newhombrew:block/modifier",
+      "y": 270
+    }
+  }
+}

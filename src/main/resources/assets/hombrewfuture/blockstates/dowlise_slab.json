@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "newhombrew:block/dowlise_slab"
+    },
+    "type=double": {
+      "model": "newhombrew:block/dowlise_planks"
+    },
+    "type=top": {
+      "model": "newhombrew:block/dowlise_slab_top"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants" :
+  {
+    "": {"model": "newhombrew:block/augba_ore"}
+  }
+}

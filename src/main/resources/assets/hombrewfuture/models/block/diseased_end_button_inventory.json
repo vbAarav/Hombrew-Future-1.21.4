@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "newhombrew:block/diseased_end_stone"
+  }
+}

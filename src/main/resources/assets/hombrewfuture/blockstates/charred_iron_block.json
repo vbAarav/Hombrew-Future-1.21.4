@@ -1,0 +1,6 @@
+{
+  "variants" :
+  {
+    "": {"model": "newhombrew:block/charred_iron_block"}
+  }
+}

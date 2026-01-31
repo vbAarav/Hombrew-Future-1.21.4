@@ -1,0 +1,6 @@
+{
+  "variants" :
+  {
+    "": {"model": "newhombrew:block/malicious_ore"}
+  }
+}

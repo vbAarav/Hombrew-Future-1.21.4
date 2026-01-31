@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "newhombrew:block/dowlise_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "newhombrew:block/dowlise_log"
+    },
+    "axis=z": {
+      "model": "newhombrew:block/dowlise_log_horizontal",
+      "x": 90
+    }
+  }
+}

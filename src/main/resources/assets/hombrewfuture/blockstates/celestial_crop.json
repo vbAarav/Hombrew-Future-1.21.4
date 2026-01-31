@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "newhombrew:block/celestial_crop_stage0"
+    },
+    "age=1,type=sun": {
+      "model": "newhombrew:block/celestial_crop_sun_stage1"
+    },
+    "age=2,type=sun": {
+      "model": "newhombrew:block/celestial_crop_sun_stage2"
+    },
+    "age=3,type=sun": {
+      "model": "newhombrew:block/celestial_crop_sun_stage3"
+    },
+    "age=1,type=moon": {
+      "model": "newhombrew:block/celestial_crop_moon_stage1"
+    },
+    "age=2,type=moon": {
+      "model": "newhombrew:block/celestial_crop_moon_stage2"
+    },
+    "age=3,type=moon": {
+      "model": "newhombrew:block/celestial_crop_moon_stage3"
+    }
+  }
+}

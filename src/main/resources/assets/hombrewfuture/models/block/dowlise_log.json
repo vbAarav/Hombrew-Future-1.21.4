@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "newhombrew:block/dowlise_log_top",
+    "side": "newhombrew:block/dowlise_log"
+  }
+}

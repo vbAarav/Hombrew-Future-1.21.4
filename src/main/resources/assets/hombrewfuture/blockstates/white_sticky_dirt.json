@@ -1,0 +1,6 @@
+{
+  "variants" :
+  {
+    "": {"model": "newhombrew:block/white_sticky_dirt"}
+  }
+}

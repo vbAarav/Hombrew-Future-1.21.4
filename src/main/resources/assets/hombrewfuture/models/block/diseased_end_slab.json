@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "newhombrew:block/diseased_end_stone",
+    "top": "newhombrew:block/diseased_end_stone",
+    "side": "newhombrew:block/diseased_end_stone"
+  }
+}

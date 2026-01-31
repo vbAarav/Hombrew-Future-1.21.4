@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "newhombrew:block/dowlise_planks",
+    "top": "newhombrew:block/dowlise_planks",
+    "side": "newhombrew:block/dowlise_planks"
+  }
+}
